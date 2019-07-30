@@ -1,0 +1,35 @@
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem - Copy\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem - Copy\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+C:\Users\Comp\Documents\Visual Studio 2015\Projects\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+D:\HRMS\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy3\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy3\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy3\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+D:\HRMS\HumanResourceManagementSystem - Copy3\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy3\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy4\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy4\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy4\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+D:\HRMS\HumanResourceManagementSystem - Copy4\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy4\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy5\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy5\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy5\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy5\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy5\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
+D:\HRMS\HumanResourceManagementSystem - Copy6\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy6\HRMS_ENTITY\bin\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy6\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.dll
+D:\HRMS\HumanResourceManagementSystem - Copy6\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.pdb
+D:\HRMS\HumanResourceManagementSystem - Copy6\HRMS_ENTITY\obj\Debug\HRMS_ENTITY.csprojResolveAssemblyReference.cache
